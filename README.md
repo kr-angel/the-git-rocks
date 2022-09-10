@@ -1,2 +1,2 @@
-# the-git-rocks
+# the-git-is-actually-rocking
 codecool task
